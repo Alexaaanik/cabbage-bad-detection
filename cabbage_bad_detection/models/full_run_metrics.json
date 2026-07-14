@@ -1,0 +1,12 @@
+{
+  "run_name": "full_run",
+  "model": "yolov8n.pt",
+  "epochs": 100,
+  "imgsz": 800,
+  "batch": 8,
+  "device": "mps",
+  "mAP50": 0.9440140075776111,
+  "mAP50-95": 0.5933412176158941,
+  "precision": 0.8807752763697418,
+  "recall": 0.915268362757524
+}

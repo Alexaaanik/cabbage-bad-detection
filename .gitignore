@@ -1,0 +1,21 @@
+.DS_Store
+.claude/
+__pycache__/
+*.pyc
+.venv/
+*.log
+
+cabbage_bad_detection/runs/
+
+# модели
+*.pt
+
+# датасет и тестовые фото
+Кочаны разметка 700+-2/
+test_photo/
+
+# все картинки (тяжёлые, гитхаб/сеть отваливаются при загрузке)
+*.jpg
+*.jpeg
+*.png
+*.webp
